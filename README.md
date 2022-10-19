@@ -28,4 +28,14 @@ The image below shows some of the first 25 images with their labels.
 
 * Ultimately, we used WebCam to test the network in real life. 
 
+![](https://github.com/Fateme-Azizabadi/Sign-Language-Alphabet-Recognizer/blob/main/Images/Example1.png)
+
+![](https://github.com/Fateme-Azizabadi/Sign-Language-Alphabet-Recognizer/blob/main/Images/Example2.png)
+
+![](https://github.com/Fateme-Azizabadi/Sign-Language-Alphabet-Recognizer/blob/main/Images/Example3.png)
+
+![](https://github.com/Fateme-Azizabadi/Sign-Language-Alphabet-Recognizer/blob/main/Images/Example4.png)
+
+![](https://github.com/Fateme-Azizabadi/Sign-Language-Alphabet-Recognizer/blob/main/Images/Example5.png)
+
 
