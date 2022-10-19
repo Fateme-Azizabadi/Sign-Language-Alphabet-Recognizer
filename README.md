@@ -2,12 +2,11 @@
 
 **This Project aims to use MLP Architecture to classify the Sign Language Dataset.**
 
-* Test and training Data can be found in the Dataset File. 80% of training data is allocated to training data and 20% to validation data. 
-The image below shows some of the first 25 images with their labels. 
-
 * Test and training Data can be found in the Dataset File. 80% of training data is allocated to training data and 20% to validation data.
 
 The image below shows some of the first 25 images with their labels.
+
+![](https://github.com/Fateme-Azizabadi/Sign-Language-Alphabet-Recognizer/blob/main/Images/Dataset.png)
 
 * MLP Classifier is used to classify sign language data. None of the ready-made libraries were used to create this classifier, and this model was implemented from scratch.
 
