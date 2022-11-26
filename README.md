@@ -38,4 +38,4 @@ The image below shows some of the first 25 images with their labels.
 
 ![](https://github.com/Fateme-Azizabadi/Sign-Language-Alphabet-Recognizer/blob/main/Images/Example5.png)
 
-
+.
